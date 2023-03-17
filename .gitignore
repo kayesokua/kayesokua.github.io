@@ -17,7 +17,6 @@
 *.pdf
 
 # Generated files
-index.html
 favicon.ico
 *.min.css
 *.min.js

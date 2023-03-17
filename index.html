@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<section id="intro">
+    <div class="flex-row-between">
+        <h1 class="tagline">{{ site.greetings }}</h1>
+        <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
+            <div></div>
+        </button>
+    </div>
+    <div class="bio">
+        <p>Hello 👋, I'm Kaye, a software engineering student, who keeps snackable information about {% assign tags = site.tags | sort %} {% for tag in tags %}<a
+                href="{{ site.url }}{{ site.baseurl }}/tag/{{ tag | first | slugify }}">{{ tag[0] | replace:'-', ' '}}
+                ({{ tag | last | size}}){% unless forloop.last %}, {% endunless %}</a>{% endfor %}
+            . If you're interested in collaboration, <a href="https://calendly.com/kayescaping" target="_blank">let's
+                have a virtual coffee ☕</a>
+        </p>
+    </div>
+</section>
+
+<div class="search-article">
+    <label for="search-input" aria-hidden="true">
+        <!-- Magnifier -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 35 16" fill="none"
+            stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            class="feather feather-search">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+    </label>
+
+    <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search"
+        style="text-align:center">
+    <ul id="search-results"></ul>
+</div>
+
+<section class="posts" id="Blog">
+    <h2>Total Notes ({{ site.posts | size }}) </h2>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %y" }}</time>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            {% for tag in post.tags %}<span class="label-cat text-mono"><a
+                    href="{{ site.url }}{{ site.baseurl }}/tag/{{tag}}">{{tag}}</a></span>{% unless forloop.last %}, {%
+            endunless %}{% endfor %}</span>
+
+        </li>
+        <p class="summary text-mono">
+            {{ post.summary }}
+        </p>
+        {% endfor %}
+    </ul>
+</section>
