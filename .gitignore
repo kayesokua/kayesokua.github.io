@@ -6,7 +6,6 @@ _site/
 
 # Compiled files
 *.log
-*.gem
 *.bak
 *.DS_Store
 *.pyc
@@ -23,12 +22,6 @@ index.html
 favicon.ico
 *.min.css
 *.min.js
-
-# Exclude the GitHub Pages gem
-.github/
-
-# Ignore the Bundler config
-.bundle/
 
 # Ignore Vim files
 *.swp
