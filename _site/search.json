@@ -1,0 +1,282 @@
+[
+  
+    {
+      "title"    : "Sitting with My Sadness",
+      "description" : "",
+      "category" : "",
+      "tags"     : "personal-development",
+      "url"      : "/sitting-with-the-sadness",
+      "date"     : "2023-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Git Workflow Practices",
+      "description" : "",
+      "category" : "",
+      "tags"     : "collaboration",
+      "url"      : "/git-workflows",
+      "date"     : "2023-03-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Web Accessibility",
+      "description" : "",
+      "category" : "",
+      "tags"     : "web-development",
+      "url"      : "/web-accessibility",
+      "date"     : "2023-02-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Technical Writing",
+      "description" : "",
+      "category" : "",
+      "tags"     : "collaboration",
+      "url"      : "/technical-writing",
+      "date"     : "2023-02-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Applications of Multivariate Calculus",
+      "description" : "",
+      "category" : "",
+      "tags"     : "calculus",
+      "url"      : "/calculus-applications",
+      "date"     : "2023-02-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Multivariate Calculus Review",
+      "description" : "",
+      "category" : "",
+      "tags"     : "calculus",
+      "url"      : "/multivariable-calculus",
+      "date"     : "2023-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Writing For Clarity",
+      "description" : "",
+      "category" : "",
+      "tags"     : "personal-development",
+      "url"      : "/art-of-writing",
+      "date"     : "2023-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Learning How To Learn",
+      "description" : "",
+      "category" : "",
+      "tags"     : "personal-development",
+      "url"      : "/learn-how-to-learn",
+      "date"     : "2023-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Single-Variable Calculus Review",
+      "description" : "",
+      "category" : "",
+      "tags"     : "calculus",
+      "url"      : "/single-variable-calculus",
+      "date"     : "2023-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pathfinding Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/pathfinding-algorithms",
+      "date"     : "2022-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Understanding Color Models",
+      "description" : "",
+      "category" : "",
+      "tags"     : "image-processing",
+      "url"      : "/color-systems",
+      "date"     : "2022-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Comparison vs. Non-Comparison Sorts",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/sorting-algorithms",
+      "date"     : "2022-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DFS vs. BFS Tree Traversal",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/tree-traversal-algorithms",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recursive vs. Iterative Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/recursive-vs-iterative",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pattern Search Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/pattern-searching-algorithms",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Greedy vs. Dynamic Programming",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/greedy-algorithms",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Brute Force Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/brute-force-algorithms",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Asymtotic Analysis",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/asymtotic-analysis",
+      "date"     : "2022-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nonlinear Data Structures",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/nonlinear-data-structures",
+      "date"     : "2022-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Linear Data Structures",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/linear-structures",
+      "date"     : "2022-08-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Data Structures + Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/data-structures-and-algorithms",
+      "date"     : "2022-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Exploratory Data Analysis on Modern Dance",
+      "description" : "Contemporary dance as movement research",
+      "category" : "",
+      "tags"     : "personal",
+      "url"      : "/choreography-analysis",
+      "date"     : "2022-02-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Distance Algorithms",
+      "description" : "",
+      "category" : "",
+      "tags"     : "data-structures-algorithms",
+      "url"      : "/distance-algorithms",
+      "date"     : "2021-12-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vector Spaces",
+      "description" : "",
+      "category" : "",
+      "tags"     : "linear-algebra",
+      "url"      : "/vector-spaces",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scalars, Vectors, Matrices, Tensors",
+      "description" : "",
+      "category" : "",
+      "tags"     : "linear-algebra",
+      "url"      : "/scalars-vectors-matrices-tensors",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "System of Linear Equations",
+      "description" : "",
+      "category" : "",
+      "tags"     : "linear-algebra",
+      "url"      : "/system-of-linear-equation",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Advanced Probability Techniques",
+      "description" : "",
+      "category" : "",
+      "tags"     : "probability",
+      "url"      : "/advanced-probability-techniques",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Probability Review",
+      "description" : "",
+      "category" : "",
+      "tags"     : "probability",
+      "url"      : "/probability-review",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inferential Statistics",
+      "description" : "",
+      "category" : "",
+      "tags"     : "statistics",
+      "url"      : "/inferential-statistics",
+      "date"     : "2020-04-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Descriptive Statistics",
+      "description" : "",
+      "category" : "",
+      "tags"     : "statistics",
+      "url"      : "/descriptive-statistics",
+      "date"     : "2020-04-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Statistics Fundamental Concepts",
+      "description" : "",
+      "category" : "",
+      "tags"     : "statistics",
+      "url"      : "/statistics-review",
+      "date"     : "2020-04-01 00:00:00 +0200"
+    } 
+  
+]
