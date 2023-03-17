@@ -1,0 +1,88 @@
+site: Kayescaping
+title: Escape to Clarity
+greetings: "Escape to Clarity"
+description: >-
+  A collection of personal and study insights.
+lang: en-US
+timezone:  Europe/Berlin
+repo: https://github.com/kayesokua # site repo [optional]
+data-theme: light # default theme "dark" | "light"
+discus-identifier: powex # replace with your disqus shortname
+
+author:
+  name: kayescaping
+  bio: just a minimalist, personal blog
+  userpicture: 
+  username: # general username
+  github: # github username
+  twitter: # twitter username
+  email: your-email@email.com # email adress
+
+# Font Settings
+googlewebfonts: family=Homemade+Apple&family=IBM+Plex+Mono:wght@300&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;1,200;1,400
+
+# URL settings
+url: "" 
+baseurl: "" 
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-gist
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled:     true
+  collections: false
+
+

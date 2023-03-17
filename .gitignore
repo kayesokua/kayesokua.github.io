@@ -1,0 +1,51 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Compiled files
+*.log
+*.gem
+*.bak
+*.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.psd
+*.ai
+*.eps
+*.pdf
+
+# Generated files
+index.html
+favicon.ico
+*.min.css
+*.min.js
+
+# Exclude the GitHub Pages gem
+.github/
+
+# Ignore the Bundler config
+.bundle/
+
+# Ignore Vim files
+*.swp
+*.swo
+*.swn
+
+# Ignore macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore the Jekyll cache directory
+.jekyll-cache/
+
+# Ignore the Jekyll generated files
+_site/
+_drafts/
+
+# Ignore the Jekyll metadata file
+.jekyll-metadata
