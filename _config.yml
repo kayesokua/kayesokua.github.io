@@ -23,7 +23,7 @@ googlewebfonts: family=Homemade+Apple&family=IBM+Plex+Mono:wght@300&family=Ralew
 
 # URL settings
 url: "" 
-baseurl: "" 
+baseurl: ""
 permalink: pretty
 
 markdown: kramdown

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Escape to Clarity</title>
- <link href="http://localhost:4001/atom.xml" rel="self"/>
- <link href="http://localhost:4001/"/>
- <updated>2023-03-17T18:19:28+01:00</updated>
- <id>http://localhost:4001</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2023-03-18T00:53:39+01:00</updated>
+ <id></id>
  <author>
    <name>kayescaping</name>
    <email>your-email@email.com</email>
@@ -13,29 +13,10 @@
 
  
  <entry>
-   <title>Sitting with My Sadness</title>
-   <link href="http://localhost:4001/sitting-with-the-sadness"/>
-   <updated>2023-03-14T00:00:00+01:00</updated>
-   <id>http://localhost:4001/sitting-with-the-sadness</id>
-   <content type="html">&lt;p&gt;Deep within the recesses of my heart lies a reason for my pain - a sorrow born of inadequacy that has taken root and grown. It is a weight that can sometimes feel crushing, a reminder of how I fall short of my own expectations. So here I am, diving deep into reflection, trying to make sense of the tangled web of emotions that threaten to overwhelm me.&lt;/p&gt;
-
-&lt;p&gt;My heart is a vessel that yearns for connections that transcend the boundaries of reality.  It beats with a desire for companions who will hold my hand through the highs and lows of life, who will offer unyielding support that goes beyond the confines of their roles, and who will traverse time zones and distance to be by my side. Yet, the winds of change are fickle. I know that people come and go, and it’s important to gracefully let go of those whose presence doesn’t align with our needs. We must safeguard our well-being and nurture it with self-love, embracing the journey with grace and resilience.&lt;/p&gt;
-
-&lt;p&gt;I take pride in saying that jealousy and envy don’t have a hold on me. I am genuinely happy for the success of those close to me, but I sometimes feel a sense of distance when they achieve new heights. It seems that success can create a subtle but significant gap between people, leaving us feeling like we don’t fully belong. I recognize that the world doesn’t revolve around any one person, including myself, and that we all have unique paths of growth in the multidimensional space of life. However, I still struggle with the shame of being the last to progress because of the invisible burdens I carry.&lt;/p&gt;
-
-&lt;p&gt;Growing up in a tumultuous environment of constant yelling and verbal abuse, for twenty years or so, has left me with emotions overpower factual details.  Research suggests that early experiences can shape our brains’ very structure, leaving lasting imprints on our neural pathways. Although I cannot decipher the intricate details of how my trauma affected my brain, each seemingly random panic attacks remind me of its impact. As I navigate through life, weighed down by this burden, I can’t help but ponder how my life would have been different had I been raised in a nurturing environment. I might have acquired the confidence and self-worth to confront life’s challenges head-on, without turning to external validation or retail therapy to alleviate my pain. Perhaps I would have felt rooted and connected to my community, without the urge to seek a better life elsewhere. Despite this, there is a whispered theory that those who have been battered by hardship possess a unique ability to perceive the world through a different lens, to conjure solutions to problems where others see none.&lt;/p&gt;
-
-&lt;p&gt;So mabye, I have the pain advantage afterall, igniting my writing and propelling me to keep a safe distance from those who hurt me. One part of me believes that the harm was never fully intended, yet the other cannot let its guard down. The intersection of childhood trauma and creativity creates a dance of opposing forces, stifling and igniting imagination. Though creative pursuits free me from the confines of my mind, I sometimes question if true creativity is meant to blossom in solitude.&lt;/p&gt;
-
-&lt;p&gt;Yogi Berra’s words reverberate in my mind, &lt;em&gt;If you don’t know where you are going, you’ll end up someplace else&lt;/em&gt;. I have left behind my religious bubble and a relationship that held me back but I feel stranded in Berlin where my dreams seem elusive. My supposed desire to help others was merely a facade, a constructed identity that served as a temporary escape from the turmoil within. The hard truth is I am just here for mere existence. Sometimes, I try to check and look back on the people I once knew, but they seem to have moved on. Where else do I go? Loneliness is the only forward direction. Intersecting with others who have undergone similar trials is just a subplot.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Git Workflow Practices</title>
-   <link href="http://localhost:4001/git-workflows"/>
+   <link href="/git-workflows"/>
    <updated>2023-03-07T00:00:00+01:00</updated>
-   <id>http://localhost:4001/git-workflows</id>
+   <id>/git-workflows</id>
    <content type="html">&lt;p&gt;Git workflows offer a framework and set of principles for overseeing modifications to code, promoting collaboration, and enhancing code quality. Here is a brief explanation of how it appears on your terminal:&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -258,9 +239,9 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Web Accessibility</title>
-   <link href="http://localhost:4001/web-accessibility"/>
+   <link href="/web-accessibility"/>
    <updated>2023-02-15T00:00:00+01:00</updated>
-   <id>http://localhost:4001/web-accessibility</id>
+   <id>/web-accessibility</id>
    <content type="html">&lt;h1 id=&quot;intro-to-web-accessibility&quot;&gt;Intro to Web Accessibility&lt;/h1&gt;
 
 &lt;ol&gt;
@@ -314,9 +295,9 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Technical Writing</title>
-   <link href="http://localhost:4001/technical-writing"/>
+   <link href="/technical-writing"/>
    <updated>2023-02-15T00:00:00+01:00</updated>
-   <id>http://localhost:4001/technical-writing</id>
+   <id>/technical-writing</id>
    <content type="html">&lt;p&gt;Technical documentation and user manuals are both important types of technical writing but they serve different purposes and target different audiences. Technical documentation serves technical professionals with detailed technical information, while user manuals focus on providing practical guidance for end-users. Both are critical in providing users with the information they need to use a product or system effectively, and their effective use can help ensure clear communication and collaboration.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -405,9 +386,9 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Applications of Multivariate Calculus</title>
-   <link href="http://localhost:4001/calculus-applications"/>
+   <link href="/calculus-applications"/>
    <updated>2023-02-05T00:00:00+01:00</updated>
-   <id>http://localhost:4001/calculus-applications</id>
+   <id>/calculus-applications</id>
    <content type="html">&lt;h1 id=&quot;methods-using-multivariable-calculus&quot;&gt;Methods using Multivariable Calculus&lt;/h1&gt;
 
 &lt;h2 id=&quot;taylor-series-approximation&quot;&gt;Taylor Series Approximation&lt;/h2&gt;
@@ -467,9 +448,9 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Multivariate Calculus Review</title>
-   <link href="http://localhost:4001/multivariable-calculus"/>
+   <link href="/multivariable-calculus"/>
    <updated>2023-02-01T00:00:00+01:00</updated>
-   <id>http://localhost:4001/multivariable-calculus</id>
+   <id>/multivariable-calculus</id>
    <content type="html">&lt;p&gt;&lt;span class=&quot;tooltip&quot;&gt;&lt;a href=&quot;#&quot;&gt;Multivariate Calculus&lt;/a&gt;
 &lt;span class=&quot;right bottom&quot;&gt;&lt;span class=&quot;tooltip-excerpt&quot;&gt;A type of math that helps us understand how things change and how they are related to each other when there are multiple variables involved&lt;br /&gt;
                       &lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;is the branch of mathematics that deals with the differentiation and integration of functions of multiple variables. It provides a systematic framework to address &lt;u&gt;how to determine the behavior of functions with multiple inputs and outputs&lt;/u&gt;. The questions it tries to solve:&lt;/p&gt;
@@ -548,216 +529,10 @@ Deleted branch feature-branch (was abc1234).
  </entry>
  
  <entry>
-   <title>Writing For Clarity</title>
-   <link href="http://localhost:4001/art-of-writing"/>
-   <updated>2023-01-10T00:00:00+01:00</updated>
-   <id>http://localhost:4001/art-of-writing</id>
-   <content type="html">&lt;p&gt;Writing is not just a tool to convey information, but a means of storytelling, where the writer has the power to transport the reader to a new world of ideas, perspectives, and experiences. Whether you are writing a technical document, an academic essay, or a personal reflection, writing gives you the chance to take your readers on a journey, to share with them your thoughts, insights, and perspectives. In this note, you will find a summary of the classic writing guide &lt;strong&gt;The Elements of Style&lt;/strong&gt; and a &lt;strong&gt;simple guide on writing for different purposes&lt;/strong&gt;. From my personal experience, writing is a lot of &lt;em&gt;rewriting&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-elements-of-style&quot; id=&quot;markdown-toc-the-elements-of-style&quot;&gt;The Elements of Style&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#emphasis-highlight-important-features-and-functions-using-bold-or-italic-text&quot; id=&quot;markdown-toc-emphasis-highlight-important-features-and-functions-using-bold-or-italic-text&quot;&gt;Emphasis: Highlight important features and functions, using bold or italic text&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#writing-guide-for-different-purposes&quot; id=&quot;markdown-toc-writing-guide-for-different-purposes&quot;&gt;Writing Guide for Different Purposes&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#copy-writing&quot; id=&quot;markdown-toc-copy-writing&quot;&gt;Copy Writing&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#workplace-or-internal-communications&quot; id=&quot;markdown-toc-workplace-or-internal-communications&quot;&gt;Workplace or Internal Communications&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#personal-writing&quot; id=&quot;markdown-toc-personal-writing&quot;&gt;Personal Writing&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-elements-of-style&quot;&gt;The Elements of Style&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;The Elements of Style&lt;/strong&gt; is a classic writing guide first published in 1918 by William Strunk Jr. and later expanded by E.B. White. The elements of good writing that where discussed in the book are the following:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Clarity: Clear and straightforward language, subject performing action&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app allows users to send a message by tapping the ‘Send‘ button.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Concision: Keep sentences brief and to the point, using only necessary words&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;To add a new contact, go to the ‘Contacts‘ section and tap ‘Add Contact.‘
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Grammar: Ensure correct sentence structure, spelling, and punctuation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app requires an internet connection to function.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Active Voice: Use active voice to clearly convey who or what is performing the action&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app saves messages automatically.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Vocabulary: Use appropriate vocabulary, avoiding jargon and complex words&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app stores messages in the 'Inbox' section.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Unity: Organize the technical documentation into a logical structure, with related information grouped together&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;To send a message, follow these steps:
-1. Open the app
-2. Tap 'New Message'
-3. Type the message
-4. Tap 'Send.'&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ol class=&quot;regular-sans&quot;&gt;
-  &lt;li&gt;Coherence: Maintain a consistent tone throughout the technical documentation, avoiding abrupt changes in style or subject matter&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app's 'Settings' section allows users to adjust their notification preferences.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;emphasis-highlight-important-features-and-functions-using-bold-or-italic-text&quot;&gt;Emphasis: Highlight important features and functions, using bold or italic text&lt;/h2&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;
-&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The app's &lt;b&gt;Settings&lt;/b&gt; section allows users to adjust their notification preferences.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&quot;writing-guide-for-different-purposes&quot;&gt;Writing Guide for Different Purposes&lt;/h1&gt;
-&lt;p&gt;Here I came up a simple guide based on my personal copy writing, academic and personal experience.&lt;/p&gt;
-
-&lt;h2 id=&quot;copy-writing&quot;&gt;Copy Writing&lt;/h2&gt;
-
-&lt;h4&gt;Technical Documentation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide clear and concise instructions about the product&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Impartial and precise&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Precise and concise language, with technical terms where necessary&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Graphs, diagrams, and concrete examples&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Engineers, scientists, technicians, specialists&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Email Marketing Content&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Persuade and influence potential customers to take a specific action&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Engaging, persuasive, and upbeat&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Conversational and attention-grabbing&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Benefits, testimonials, statistics, and emotional appeals&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Prospective customers, visitors, investors, or stakeholders&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Landing Pages&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Convert website visitors into customers or leads by focusing on benefits and outcomes, rather than features&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Persuasive, consistent with the brand’s overall messaging and style&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Easy to understand&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Customer testimonials, product specifications, case studies, or statistics.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Website visitors, general web surfers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Social Media&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Engage and connect with followers, build brand awareness.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Conversational, friendly, and relatable&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Short and concise, with the use of emojis, hashtags, and attention-grabbing headlines&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Images, videos, and user-generated content&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Followers, fans, customers on social media platforms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;workplace-or-internal-communications&quot;&gt;Workplace or Internal Communications&lt;/h2&gt;
-
-&lt;h4&gt;Business Data Reporting&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: present data-driven insights and recommendations to support business decision-making&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Clear, concise, and business-oriented&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Clear and straightforward using the common vocabulary&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Relies on company data and statistical analysis with visualizations and tables to illustrate findings&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Cover Letters&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Introduce yourself to an employer and convince them to consider you for a job opening&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Professional yet personable&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Clear and concise, with an emphasis on demonstrating your qualifications for the job&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Provide concrete evidence of your qualifications and experience&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Hiring managers, so keep in mind their needs, expectations, and priorities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Academic Writing&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Data Science Report&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Present technical findings and insights from data analysis, often as part of a research project or experimentation&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Neutral, objective, and scientific&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Technical and precise, with the use of mathematical and statistical concepts&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Relies on data, statistical analysis, technical algorithms and techniques; The report should present the methods used and the results obtained, along with their interpretation and limitations&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Scholars, researchers, educators, and students&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Academic Essay&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Present a stance on a specific topic based on evidence and research&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Neutral, objective, and persuasive&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Academic, formal, and persuasive&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Primary and secondary sources to convince the reader of the writer’s POV&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;General Audience&lt;/strong&gt;: Scholars, researchers, educators, and students&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Academic Research&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Present research findings or scholarly opinions&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Neutral, objective, and scientific&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Academic, precise, third-person perspective&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Primary and secondary sources, including experiments, surveys, interviews, and existing research&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Scholars, researchers, educators, and students&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Academic Review&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Critically evaluate a book or publication and provide an overview of its strengths and weaknesses&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Formal and impartial&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Technical and academic vocabulary, third-person perspective&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Quotes, paraphrases, and summaries from the book being reviewed, as well as secondary sources&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Scholars, researchers, educators, and students&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;personal-writing&quot;&gt;Personal Writing&lt;/h2&gt;
-
-&lt;h4&gt;Creative Writing&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Express imagination and originality through writing.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Varies, can be whimsical, serious, or imaginative&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Evocative and imaginative, can use figurative language, and unconventional narrative structures&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Unique perspectives, vivid descriptions, and imaginative scenarios.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: General readers, fans, admirers of creative writing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Personal Reflection&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Explore personal thoughts and experiences&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tone&lt;/strong&gt;: Personal and subjective&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: First-person perspective, more conversational&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Personal anecdotes, feelings, and insights&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Local readers, friends or family&lt;/li&gt;
-&lt;/ul&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Learning How To Learn</title>
-   <link href="http://localhost:4001/learn-how-to-learn"/>
+   <link href="/learn-how-to-learn"/>
    <updated>2023-01-05T00:00:00+01:00</updated>
-   <id>http://localhost:4001/learn-how-to-learn</id>
+   <id>/learn-how-to-learn</id>
    <content type="html">&lt;p&gt;The conventional perception of learning is often limited to studying a book or taking an online tutorial. However, successful learning involves a combination of focused concentration and relaxation. Advances in optical imaging have demonstrated that the brain experiences structural changes upon acquiring new information, such as forming new synapses on the same dendrite branch. The Learning How to Learn course, taught by Professor Barbara Oakley and Dr. Terrence Sejnowski, delves into the science of learning and offers effective strategies for enhancing your natural ability to excel in any discipline. This summary presents the essential ideas from the course. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -847,21 +622,24 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Single-Variable Calculus Review</title>
-   <link href="http://localhost:4001/single-variable-calculus"/>
+   <link href="/single-variable-calculus"/>
    <updated>2023-01-01T00:00:00+01:00</updated>
-   <id>http://localhost:4001/single-variable-calculus</id>
+   <id>/single-variable-calculus</id>
    <content type="html">&lt;p&gt;Single variable calculus has significant applications in many fields including physics, engineering, economics, and biology. It provides a framework for understanding and modeling change, and is essential for solving problems in a variety of fields.&lt;/p&gt;
 
 &lt;h1 id=&quot;functions&quot;&gt;Functions&lt;/h1&gt;
+
 &lt;p&gt;Functions are mathematical objects that take inputs (also known as arguments or variables) and produce outputs (also known as values or results). Polynomials, trigonometric functions, and power laws are all types of functions.&lt;/p&gt;
 
 &lt;h1 id=&quot;limits&quot;&gt;Limits&lt;/h1&gt;
+
 &lt;p&gt;Limits describe the behavior of a function as the input approaches a particular value. They are used to define the behavior of functions at points where they may not be defined, and to understand the continuity of functions.&lt;/p&gt;
 
 &lt;h1 id=&quot;continuity&quot;&gt;Continuity&lt;/h1&gt;
 &lt;p&gt;Continuity is a property of functions that states that the function is well-behaved and has no abrupt changes or discontinuities. This concept is important for understanding the behavior of functions and for defining derivatives and integrals.&lt;/p&gt;
 
 &lt;h1 id=&quot;differentiation&quot;&gt;Differentiation&lt;/h1&gt;
+
 &lt;p&gt;Differentiation is the process of finding the rate of change of a function at a particular point. The power, product, and chain rules are techniques used to differentiate functions composed of multiple terms.&lt;/p&gt;
 
 &lt;h1 id=&quot;integration&quot;&gt;Integration&lt;/h1&gt;
@@ -872,9 +650,9 @@ Deleted branch feature-branch (was abc1234).
  
  <entry>
    <title>Pathfinding Algorithms</title>
-   <link href="http://localhost:4001/pathfinding-algorithms"/>
+   <link href="/pathfinding-algorithms"/>
    <updated>2022-12-28T00:00:00+01:00</updated>
-   <id>http://localhost:4001/pathfinding-algorithms</id>
+   <id>/pathfinding-algorithms</id>
    <content type="html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#breadth-first-search&quot; id=&quot;markdown-toc-breadth-first-search&quot;&gt;Breadth-First Search&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#depth-first-search&quot; id=&quot;markdown-toc-depth-first-search&quot;&gt;Depth-First Search&lt;/a&gt;&lt;/li&gt;
@@ -942,9 +720,9 @@ Cons of DFS:&lt;/p&gt;
  
  <entry>
    <title>Understanding Color Models</title>
-   <link href="http://localhost:4001/color-systems"/>
+   <link href="/color-systems"/>
    <updated>2022-11-01T00:00:00+01:00</updated>
-   <id>http://localhost:4001/color-systems</id>
+   <id>/color-systems</id>
    <content type="html">&lt;p&gt;Color is a perceptual phenomenon that arises from the interaction between light, the human eye, and the brain, and is used in a variety of fields including art, psychology, medicine, and computer graphics. In art, color is used to create pleasing designs and convey emotions. In psychology, color is studied for its effects on our behavior and feelings. In medicine, color is used to diagnose and treat various diseases. To represent color information for different devices and applications, there are various color models, each with its own strengths and limitations. The choice of color model depends on the task at hand. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -1269,9 +1047,9 @@ Cons of DFS:&lt;/p&gt;
  
  <entry>
    <title>Comparison vs. Non-Comparison Sorts</title>
-   <link href="http://localhost:4001/sorting-algorithms"/>
+   <link href="/sorting-algorithms"/>
    <updated>2022-10-04T00:00:00+02:00</updated>
-   <id>http://localhost:4001/sorting-algorithms</id>
+   <id>/sorting-algorithms</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Sorting algorithms&lt;/strong&gt; operates by arranging elements of a list into an “order” - usually numerically, lexicographically, ascending or descending. Sorting is used to optimize the efficiency of other algorithms and for canonicalizing data (the process of converting data that has more than one possible representation). &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -1459,9 +1237,9 @@ Cons of DFS:&lt;/p&gt;
  
  <entry>
    <title>DFS vs. BFS Tree Traversal</title>
-   <link href="http://localhost:4001/tree-traversal-algorithms"/>
+   <link href="/tree-traversal-algorithms"/>
    <updated>2022-10-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/tree-traversal-algorithms</id>
+   <id>/tree-traversal-algorithms</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Depth-First Search&lt;/strong&gt; starts at the root and explores as far as possible along each branch before backtracking. This implies checking all children first.&lt;/p&gt;
 
 &lt;p&gt;While &lt;strong&gt;Breadth-first search&lt;/strong&gt; is an algorithm for traversing or searching tree data structure. It starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.&lt;/p&gt;
@@ -1503,9 +1281,9 @@ Post-order Traversal&lt;/p&gt;
  
  <entry>
    <title>Recursive vs. Iterative Algorithms</title>
-   <link href="http://localhost:4001/recursive-vs-iterative"/>
+   <link href="/recursive-vs-iterative"/>
    <updated>2022-10-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/recursive-vs-iterative</id>
+   <id>/recursive-vs-iterative</id>
    <content type="html">&lt;p&gt;Both &lt;strong&gt;recursion&lt;/strong&gt; and &lt;strong&gt;iteration&lt;/strong&gt; are programming structures that carry out a sequence of instructions repeatedly.&lt;/p&gt;
 
 &lt;p&gt;The &lt;strong&gt;recursive method&lt;/strong&gt; is a technique that makes a function call itself and has two fundamental aspects called the base case and recursive step. For example, you are a character queuing at a bubble tea shop. The operation can be defined as if the person before you moves forward, you can assume there is one less customer at the front as you move one step closer to the counter. Once there is no more person before you, you can assume you are at the front and now able to order. The &lt;strong&gt;base case&lt;/strong&gt; refers to the smallest instance of the problem, which could be “Is it my turn to order?” in this scenario, while the &lt;strong&gt;recursive step&lt;/strong&gt; refers to the specific instructions you repeated. If there were ten customers before you, then you would repeat the step “move one step closer” ten times before you can make an order. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -1775,9 +1553,9 @@ Post-order Traversal&lt;/p&gt;
  
  <entry>
    <title>Pattern Search Algorithms</title>
-   <link href="http://localhost:4001/pattern-searching-algorithms"/>
+   <link href="/pattern-searching-algorithms"/>
    <updated>2022-10-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/pattern-searching-algorithms</id>
+   <id>/pattern-searching-algorithms</id>
    <content type="html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#naive-pattern-search&quot; id=&quot;markdown-toc-naive-pattern-search&quot;&gt;Naive Pattern Search&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#knuthmorrispratt-algorithm&quot; id=&quot;markdown-toc-knuthmorrispratt-algorithm&quot;&gt;Knuth–Morris–Pratt Algorithm&lt;/a&gt;&lt;/li&gt;
@@ -1944,9 +1722,9 @@ Post-order Traversal&lt;/p&gt;
  
  <entry>
    <title>Greedy vs. Dynamic Programming</title>
-   <link href="http://localhost:4001/greedy-algorithms"/>
+   <link href="/greedy-algorithms"/>
    <updated>2022-10-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/greedy-algorithms</id>
+   <id>/greedy-algorithms</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Greedy Algorithms&lt;/strong&gt; builds up a solution for an optimization problem by making the best decision at each step. Greedy algorithms are simple and efficient but are NOT always correct. In order for a greedy algorithm to work, a problem must satisfy: The optimal substructure property and The greedy property. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -1984,9 +1762,9 @@ Post-order Traversal&lt;/p&gt;
  
  <entry>
    <title>Brute Force Algorithms</title>
-   <link href="http://localhost:4001/brute-force-algorithms"/>
+   <link href="/brute-force-algorithms"/>
    <updated>2022-10-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/brute-force-algorithms</id>
+   <id>/brute-force-algorithms</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Brute Force Algorithms&lt;/strong&gt; solves a problem by going through all possible choices until either a solution is found or all possibilities have been exhausted. The time complexity of a brute force algorithm is often proportional to the input size.
 It is used easier to implement than more optimized algorithms and could be simple enough to be bug-free. However, the disadvantages are its slow runtime when the input size is too big and mostly not applicable to real-world problems.
 &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -2143,9 +1921,9 @@ It is used easier to implement than more optimized algorithms and could be simpl
  
  <entry>
    <title>Asymtotic Analysis</title>
-   <link href="http://localhost:4001/asymtotic-analysis"/>
+   <link href="/asymtotic-analysis"/>
    <updated>2022-10-02T00:00:00+02:00</updated>
-   <id>http://localhost:4001/asymtotic-analysis</id>
+   <id>/asymtotic-analysis</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Asymptotic Analysis&lt;/strong&gt; is a method of analyzing algorithms that focuses on their performance characteristics as the input size grows towards infinity. It provides a way to define the boundaries of an algorithm’s runtime performance based on its time and space complexity. This method is independent of the hardware used to execute the algorithm. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -2500,9 +2278,9 @@ It is used easier to implement than more optimized algorithms and could be simpl
  
  <entry>
    <title>Nonlinear Data Structures</title>
-   <link href="http://localhost:4001/nonlinear-data-structures"/>
+   <link href="/nonlinear-data-structures"/>
    <updated>2022-08-05T00:00:00+02:00</updated>
-   <id>http://localhost:4001/nonlinear-data-structures</id>
+   <id>/nonlinear-data-structures</id>
    <content type="html">&lt;p&gt;A &lt;strong&gt;non-linear data structure&lt;/strong&gt; is a type of data structure that stores elements in a hierarchal fashion. This feature utilizes memory better than linear structures because it does not require memory allocation in advance. Even when the input size increases, the time complexity remains the same. However, the implementation of a non-linear data structure is more complex. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;There are two types of non-linear data structures: &lt;em&gt;trees&lt;/em&gt; and &lt;em&gt;graphs&lt;/em&gt;.&lt;/p&gt;
@@ -2797,9 +2575,9 @@ It is used easier to implement than more optimized algorithms and could be simpl
  
  <entry>
    <title>Linear Data Structures</title>
-   <link href="http://localhost:4001/linear-structures"/>
+   <link href="/linear-structures"/>
    <updated>2022-08-03T00:00:00+02:00</updated>
-   <id>http://localhost:4001/linear-structures</id>
+   <id>/linear-structures</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Linear Data Structure&lt;/strong&gt; are basically list-based collections. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; It arranges data elements in a sequential manner just as how computer memory operates, which makes the implementation relatively easier. It is also important to learn how to talk about data structures abstractly and how it is actually implemented using a particular programming language.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -3198,9 +2976,9 @@ It is used easier to implement than more optimized algorithms and could be simpl
  
  <entry>
    <title>Data Structures + Algorithms</title>
-   <link href="http://localhost:4001/data-structures-and-algorithms"/>
+   <link href="/data-structures-and-algorithms"/>
    <updated>2022-08-01T00:00:00+02:00</updated>
-   <id>http://localhost:4001/data-structures-and-algorithms</id>
+   <id>/data-structures-and-algorithms</id>
    <content type="html">&lt;p&gt;Understanding data structures and algorithms is essential for computer science and software engineering. It enables programmers to efficiently store and manipulate data, and solve complex problems through the use of optimized algorithms. By mastering these concepts, developers can write better code, improve system performance, and ultimately deliver higher quality software products.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -3444,76 +3222,10 @@ It is used easier to implement than more optimized algorithms and could be simpl
  </entry>
  
  <entry>
-   <title>Exploratory Data Analysis on Modern Dance</title>
-   <link href="http://localhost:4001/choreography-analysis"/>
-   <updated>2022-02-05T00:00:00+01:00</updated>
-   <id>http://localhost:4001/choreography-analysis</id>
-   <content type="html">&lt;p&gt;This semester, I am conducting an exploratory data analysis (EDA) on modern dance to identify relationships and patterns between different variables. The goal is to develop an annotating system that can capture the nuances of these captivating performances. The expected output of this project is a summary of findings and a literature review of technologies used for dance notation. By combining my passion for dance and expertise in data science, I hope to use EDA to gain deeper insights into the world of dance and enhance the accuracy and effectiveness of dance notation systems.&lt;/p&gt;
-
-&lt;h1 id=&quot;modern-dance-frameworks&quot;&gt;Modern Dance Frameworks&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: {“movement analysis,” “modern dance,” “frameworks,” “techniques,”, “choreography”}&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Viewpoints Techniques - Mary Overlie - “Standing in Space” and “Six Viewpoints” - 1975 - The Viewpoints Technique is a system for movement analysis and composition that Mary Overlie first developed in the 1970s. It is based on the idea that all movement can be broken down into six basic elements, or viewpoints: space, time, shape, gesture, movement, and story. By exploring and playing with these elements in different combinations, performers and choreographers can create dynamic, layered, and highly textured movements. Many contemporary dance artists, including Anne Bogart and the SITI Company have used the Viewpoints Technique.&lt;/li&gt;
-  &lt;li&gt;Laban Movement Analysis - Rudolf Laban - “Choreutics” - 1928 - A framework for observing and analyzing movement, emphasizing the relationships between the body, space, effort, and shape.&lt;/li&gt;
-  &lt;li&gt;Bartenieff Fundamentals - Irmgard Bartenieff - “Body Movement: Coping with the Environment” - 1970 - A system of movement analysis that focuses on body connectivity, efficient movement patterns, and developmental movement patterns.&lt;/li&gt;
-  &lt;li&gt;Effort-Shape - Warren Lamb - “Effort and the Art of Movement” - 1977 - A framework for analyzing movement that focuses on the relationships between four effort qualities (strong, light, sudden, sustained) and four shape qualities (direct, flexible, indirect, and curved).&lt;/li&gt;
-  &lt;li&gt;Skinner Releasing Technique - Joan Skinner - “The Dancing Mind” - 1983 - A somatic approach to movement that emphasizes the release of tension and the exploration of the body’s relationship to gravity.&lt;/li&gt;
-  &lt;li&gt;Gaga Movement Language - Ohad Naharin - “Gaga: A New Movement Language” - 2006 - A movement exploration and improvisation system that emphasizes sensation, texture, and the experience of pleasure in movement.&lt;/li&gt;
-  &lt;li&gt;Countertechnique - Anouk van Dijk - “Countertechnique: A Toolbox for Contemporary Dance” - 2013 - A movement analysis and training system that emphasizes dynamic alignment, efficient use of energy, and the development of awareness.&lt;/li&gt;
-  &lt;li&gt;Motion Bank - Scott deLahunta and Wayne McGregor - “Choreographic Objects” - ongoing since 2010 - A digital platform for recording and analyzing movement data, with a focus on exploring new ways of visualizing and communicating the nuances of movement.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;literature-review-outline&quot;&gt;Literature Review (Outline)&lt;/h1&gt;
-
-&lt;p&gt;Here is a drafted outline for a university module (Applied Scientific Research).&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I. Introduction
-- Overview of the importance of annotation systems in modern dance
-- Explanation of the purpose of the literature review
-II. Background
-- History of modern dance and the need for annotation systems
-- The benefits and challenges of annotation systems in modern dance
-III. Existing annotation systems
-- Overview of current annotation systems used in modern dance
-- Discussion of the advantages and limitations of each system
-- Comparison of different annotation systems in terms of their functionality and accuracy
-IV. Annotation system development
-- Overview of the key factors involved in developing annotation systems
-- Discussion of the different approaches to developing annotation systems, including manual annotation, machine learning, and crowd-sourcing
-- Analysis of the benefits and drawbacks of each approach
-V. Case studies
-- In-depth analysis of specific case studies of annotation systems used in modern dance
-- Examination of the successes and failures of each system
-- Discussion of the lessons learned and potential future developments
-VI. Future research directions
-- Discussion of the potential areas for future research and development in the field of annotation systems in modern dance
-- Explanation of the potential impact of future developments on the field of modern dance
-VII. Conclusion
-- Summary of the key findings of the literature review
-- Discussion of the implications of the findings for the field of modern dance
-- Recommendations for future research and development in the area of annotation systems in modern dance.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;eda-high-level-process&quot;&gt;EDA High-Level Process&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Research Question&lt;/strong&gt;: How can we use modern frameworks, such as Laban Movement Analysis or Gaga movement language, to improve the system for automatically annotating dance performances based on the movements of the dancers?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Collect data&lt;/strong&gt;: Gather user-generated videos of the same choreographies done by different artists such as Jacques Lecoq “Forest of Sticks”, “The Dying Swan” by Michel Fokine, Contact Improvisation, “Release Technique” choreographies, and such.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Clean and preprocess data&lt;/strong&gt;: Clean the data before processing. For example, removing frames that does not contain human. This step also requires to convert data into a usable format for analysis. For example, annotating dance movements and gathering the coordinates data into a csv file for analysis.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Conduct exploratory data analysis&lt;/strong&gt;: Use statistical and visual methods to explore the data and identify trends, patterns, and relationships between different variables. This step may involve computing descriptive statistics, creating visualizations, and applying machine learning techniques to identify patterns in the data.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interpret and report results&lt;/strong&gt;: Finally, interpret the results of the EDA and report the findings. This step may involve identifying the implications of the findings for dance notation, training, or performance, and discussing the limitations of the study.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Distance Algorithms</title>
-   <link href="http://localhost:4001/distance-algorithms"/>
+   <link href="/distance-algorithms"/>
    <updated>2021-12-14T00:00:00+01:00</updated>
-   <id>http://localhost:4001/distance-algorithms</id>
+   <id>/distance-algorithms</id>
    <content type="html">&lt;p&gt;Distance algorithm refers to mathematical functions used to determine the similarity or difference between two data points, usually represented as vectors. Here, I have gathered common distance algorithms that are used in machine learning, data mining, and image processing for tasks such as clustering, classification, and pattern recognition.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -3756,9 +3468,9 @@ VII. Conclusion
  
  <entry>
    <title>Vector Spaces</title>
-   <link href="http://localhost:4001/vector-spaces"/>
+   <link href="/vector-spaces"/>
    <updated>2021-10-01T00:00:00+02:00</updated>
-   <id>http://localhost:4001/vector-spaces</id>
+   <id>/vector-spaces</id>
    <content type="html">&lt;p&gt;Vectors are elements in a vector space represented as \(v \in V\). Two operations can be performed on these elements: &lt;strong&gt;vector addition&lt;/strong&gt; and &lt;strong&gt;scalar multiplication&lt;/strong&gt;. To establish the existence of vectors, we need to define the properties of a vector space. The conditions were already outlined by Italian mathematician Giuseppe Peano in 1888, and now it’s important to understand each axiom. &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;vector-space-axioms&quot;&gt;Vector Space Axioms&lt;/h1&gt;
@@ -4071,9 +3783,9 @@ VII. Conclusion
  
  <entry>
    <title>Scalars, Vectors, Matrices, Tensors</title>
-   <link href="http://localhost:4001/scalars-vectors-matrices-tensors"/>
+   <link href="/scalars-vectors-matrices-tensors"/>
    <updated>2021-09-21T00:00:00+02:00</updated>
-   <id>http://localhost:4001/scalars-vectors-matrices-tensors</id>
+   <id>/scalars-vectors-matrices-tensors</id>
    <content type="html">&lt;p&gt;Scalars, vectors, matrices, and tensors are fundamental mathematical objects used in linear algebra to represent and manipulate data in a concise and organized manner. In order to extract meaningful results, we need to have a solid understanding of its properties, representations and operations. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -4262,9 +3974,9 @@ VII. Conclusion
  
  <entry>
    <title>System of Linear Equations</title>
-   <link href="http://localhost:4001/system-of-linear-equation"/>
+   <link href="/system-of-linear-equation"/>
    <updated>2021-09-15T00:00:00+02:00</updated>
-   <id>http://localhost:4001/system-of-linear-equation</id>
+   <id>/system-of-linear-equation</id>
    <content type="html">&lt;p&gt;Linear Algebra is a fascinating part of mathematics that explores linear systems of equations and the transformations they undergo. It offers a way to understand the connections between variables and make accurate predictions about how systems behave based on these connections. In this notebook, we will deep dive into the concept of system of linear equations.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -4690,9 +4402,9 @@ VII. Conclusion
  
  <entry>
    <title>Advanced Probability Techniques</title>
-   <link href="http://localhost:4001/advanced-probability-techniques"/>
+   <link href="/advanced-probability-techniques"/>
    <updated>2021-05-01T00:00:00+02:00</updated>
-   <id>http://localhost:4001/advanced-probability-techniques</id>
+   <id>/advanced-probability-techniques</id>
    <content type="html">&lt;h1 id=&quot;geometric-probability&quot;&gt;Geometric Probability&lt;/h1&gt;
 &lt;p&gt;Geometric Probability: Geometric probability deals with the probability of a random process taking a certain number of steps before achieving a certain outcome. It is used to model problems where the outcome depends on a sequence of independent and identically distributed events.&lt;/p&gt;
 
@@ -4714,9 +4426,9 @@ VII. Conclusion
  
  <entry>
    <title>Probability Review</title>
-   <link href="http://localhost:4001/probability-review"/>
+   <link href="/probability-review"/>
    <updated>2021-04-28T00:00:00+02:00</updated>
-   <id>http://localhost:4001/probability-review</id>
+   <id>/probability-review</id>
    <content type="html">&lt;p&gt;Probability: The probability of an event is a number that represents the likelihood of the event occurring. Probabilities are always between 0 and 1, with 0 meaning an impossible event and 1 meaning a certain event.&lt;/p&gt;
 
 &lt;h1 id=&quot;random-variables&quot;&gt;Random Variables&lt;/h1&gt;
@@ -4748,9 +4460,9 @@ VII. Conclusion
  
  <entry>
    <title>Inferential Statistics</title>
-   <link href="http://localhost:4001/inferential-statistics"/>
+   <link href="/inferential-statistics"/>
    <updated>2020-04-15T00:00:00+02:00</updated>
-   <id>http://localhost:4001/inferential-statistics</id>
+   <id>/inferential-statistics</id>
    <content type="html">&lt;p&gt;Inferential statistics is the branch of statistics that deals with making predictions and drawing conclusions about a population based on a sample of data. Here are some of the key elements of inferential statistics:&lt;/p&gt;
 
 &lt;p&gt;Sampling: Sampling refers to the process of selecting a portion of the population to study. Inferential statistics assumes that the sample is representative of the population, and the conclusions drawn from the sample can be used to make predictions about the population as a whole.&lt;/p&gt;
@@ -4775,9 +4487,9 @@ VII. Conclusion
  
  <entry>
    <title>Descriptive Statistics</title>
-   <link href="http://localhost:4001/descriptive-statistics"/>
+   <link href="/descriptive-statistics"/>
    <updated>2020-04-07T00:00:00+02:00</updated>
-   <id>http://localhost:4001/descriptive-statistics</id>
+   <id>/descriptive-statistics</id>
    <content type="html">&lt;p&gt;Descriptive statistics provides a critical first step in understanding and analyzing data and is a crucial tool for many applications, including data analysis, decision-making, and hypothesis testing.&lt;/p&gt;
 
 &lt;h1 id=&quot;central-tendency&quot;&gt;Central Tendency&lt;/h1&gt;
@@ -4842,9 +4554,9 @@ VII. Conclusion
  
  <entry>
    <title>Statistics Fundamental Concepts</title>
-   <link href="http://localhost:4001/statistics-review"/>
+   <link href="/statistics-review"/>
    <updated>2020-04-01T00:00:00+02:00</updated>
-   <id>http://localhost:4001/statistics-review</id>
+   <id>/statistics-review</id>
    <content type="html">&lt;h1 id=&quot;measures-of-central-tendency&quot;&gt;Measures of Central Tendency&lt;/h1&gt;
 &lt;p&gt;The measures of central tendency, such as mean, median, and mode, provide a summary of the data and describe where the “center” of the data is located. The interpretation of these measures depends on the shape of the data and the presence of outliers.&lt;/p&gt;
 

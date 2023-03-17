@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Sitting with My Sadness",
-      "description" : "",
-      "category" : "",
-      "tags"     : "personal-development",
-      "url"      : "/sitting-with-the-sadness",
-      "date"     : "2023-03-14 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Git Workflow Practices",
       "description" : "",
       "category" : "",
@@ -52,15 +43,6 @@
       "tags"     : "calculus",
       "url"      : "/multivariable-calculus",
       "date"     : "2023-02-01 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Writing For Clarity",
-      "description" : "",
-      "category" : "",
-      "tags"     : "personal-development",
-      "url"      : "/art-of-writing",
-      "date"     : "2023-01-10 00:00:00 +0100"
     } ,
   
     {
@@ -187,15 +169,6 @@
       "tags"     : "data-structures-algorithms",
       "url"      : "/data-structures-and-algorithms",
       "date"     : "2022-08-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Exploratory Data Analysis on Modern Dance",
-      "description" : "Contemporary dance as movement research",
-      "category" : "",
-      "tags"     : "personal",
-      "url"      : "/choreography-analysis",
-      "date"     : "2022-02-05 00:00:00 +0100"
     } ,
   
     {
