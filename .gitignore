@@ -45,7 +45,7 @@ favicon.ico
 
 # Ignore the Jekyll generated files
 _site/
-_drafts/
+_posts/drafts/
 
 # Ignore the Jekyll metadata file
 .jekyll-metadata
