@@ -1,3 +1,5 @@
 .jekyll-cache
 Gemfile.lock
 drafted
+.DS_Store
+*.DS_Store
