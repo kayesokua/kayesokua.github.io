@@ -1,0 +1,26 @@
+---
+layout: default
+title: Kaye So Kua
+---
+
+<div class="row mt-5">
+<div class="col-2">
+    <img src="https://avatars.githubusercontent.com/u/74029668?v=4" class="img-fluid" style="border-radius:10em" alt="...">
+</div>
+<div class="col-10 mt-3">
+    <h1 class="display-6 mt-3">{{page.title}}</h1>
+    <p class="lead">Data Analytics & Engineering Professional</p>
+    <p>🛠️ Python, SQL, GCP & Other Google Products, Tableau</p>
+</div>
+</div>
+<hr class="my-5">
+{% for item in site.data.experience %}
+  <h5>{{ item.year }}</h5>
+  <div class="col-10">
+    <p class="lead">
+      {% for entry in item.entries %}
+        {{ entry }}<br>
+      {% endfor %}
+    </p>
+  </div>
+{% endfor %}

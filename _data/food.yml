@@ -1,0 +1,67 @@
+- city: split
+  date: 2025-05-01
+  images:
+    - assets/images/20250501-mixed-grilled-meat.jpg
+    - assets/images/20250501-seafood-pizza.jpg
+- city: split
+  date: 2025-04-30
+  images:
+    - assets/images/20250430-acai-bowl.jpg
+- city: hvar
+- city: stari grad
+  date: 2025-04-28
+  images:
+    - assets/images/20250428-seafood-pasta.jpg
+    - assets/images/20250428-milk-gelato.jpg
+    - assets/images/20250428-fish-soup.jpg
+- city: hvar
+  date: 2025-04-28
+  images:
+    - assets/images/20250427-honey-lavender-drink.jpg
+    - assets/images/20250427-seafood-pasta.jpg
+    - assets/images/20250427-seafood-salad.jpg
+- city: hvar
+  date: 2025-04-26
+  images:
+    - assets/images/20250426-salad-tacos-fushion.jpg
+- city: split
+  date: 2025-04-25
+  images:
+    - assets/images/20250425-coffee.jpg
+    - assets/images/20250425-terminalf-pizza-fries.jpg
+- city: split
+  date: 2025-04-24
+  images:
+    - assets/images/20250424-dalmatian-cuisine.jpg
+- city: berlin
+  date: 2025-04-23
+  images:
+    - assets/images/20250423-homecooked.jpg
+- city: berlin
+  date: 2025-04-21
+  images:
+    - assets/images/20250421-homecooked.jpg
+- city: berlin
+  date: 2025-04-19
+  images:
+    - assets/images/20250419-homecooked.jpg
+- city: berlin
+  date: 2025-04-18
+  images:
+    - assets/images/20250418-homecooked.jpg
+- city: berlin
+  date: 2025-04-13
+  images:
+    - assets/images/20250413-beef-noodles.jpg
+- city: berlin
+  date: 2025-04-11
+  images:
+    - assets/images/20250411-homecooked.jpg
+- city: berlin
+  date: 2025-04-09
+  images:
+    - assets/images/20250409-homecooked.jpg
+- city: tel aviv
+  date: 2025-04-09
+  images:
+    - assets/images/20250405-falafel-grapevine-leaves.jpg

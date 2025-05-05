@@ -1,0 +1,36 @@
+---
+layout: default
+title: Food Trips
+---
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+
+<h1 class="display-6 mt-3">{{page.title}}</h1>
+<p class="lead">I'd love to showcase my expertise, but let's talk about food first 😋</p>
+<p><small>(Right now, everything is templated)</small></p>
+<hr class="my-5">
+<h2>2025</h2>
+<div class="row" data-masonry='{"percentPosition": true }'>
+  {% for post in site.data.food %}
+  {% for image in post.images %}
+  <div class="col-xs-12 col-sm-4 col-lg-2 mb-3">
+    <div class="card">
+      <a href="{{ image | relative_url }}" class="glightbox" data-gallery="food-gallery">
+        <img src="{{ image | relative_url }}"
+             alt="{{ post.city }} image {{ forloop.index }}"
+             class="img-responsive"
+             data-track="image_click"
+             style="width: 100%; height: auto; display: block;">
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+  {% endfor %}
+
+
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  const lightbox = GLightbox({ selector: '.glightbox' });
+</script>
