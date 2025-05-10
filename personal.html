@@ -31,4 +31,16 @@ title: Food Trips
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script>
   const lightbox = GLightbox({ selector: '.glightbox' });
+
+  // Add Segment tracking to image clicks
+  document.querySelectorAll('.glightbox').forEach(link => {
+    link.addEventListener('click', function () {
+      const img = this.querySelector('img');
+      analytics.track("Image Clicked", {
+        imageSrc: img?.src,
+        imageInfo: img?.alt?.split(' image')[0] || "Unknown",
+        timestamp: new Date().toISOString()
+      });
+    });
+  });
 </script>
